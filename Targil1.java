@@ -35,8 +35,8 @@ public class Targil1 {
 
             }
 
-        System.out.println("המספר הגדול ביותר שנקלט הוא "+max);
-        System.out.println("המספר הקטן ביותר שנקלט הוא "+min);
+        System.out.println(":המספר הגדול ביותר שנקלט הוא "+max);
+        System.out.println(":המספר הקטן ביותר שנקלט הוא "+min);
             }
 
     }
